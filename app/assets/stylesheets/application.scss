@@ -17,3 +17,14 @@
 @import "bootstrap";
 @import 'font-awesome-sprockets';
 @import 'font-awesome';
+
+.field{
+  margin-top: 10px;
+}
+.actions{
+  margin: 10px 0;
+}
+
+.fas::before{
+  margin: 10px;
+}
